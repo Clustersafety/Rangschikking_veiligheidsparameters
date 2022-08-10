@@ -1,4 +1,4 @@
-(https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/IG2_website.jpg)
+https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/IG2_website.jpg
 
 # Samenwerken als sleutel om onderlinge risico’s te beheersen
 Kenmerkend voor bedrijven die in een cluster gelegen zijn, zijn de onderlinge risico’s waarbij de risico’s van één bedrijf aanleiding kunnen geven tot nieuwe risico’s bij een aangrenzend of een nabijgelegen bedrijf. Daarbij gaat het om de mogelijkheid op (a) domino-effecten, (b) keteneffecten, of (c) impact (letsel/schade) ten gevolge van een incident bij een buurbedrijf. Voor (petro)chemische bedrijven die geografisch nabij andere bedrijven liggen, is het bijgevolg noodzakelijk om (proces)veiligheid niet aan te pakken als een geïsoleerd bedrijf, maar in samenwerking met de nabijgelegen bedrijven, om zo ook de onderlinge risico’s optimaal te beheersen. Samenwerking tussen bedrijven wordt dus gezien als dé sleutel tot het doelmatig aanpakken van onderlinge risico’s.
