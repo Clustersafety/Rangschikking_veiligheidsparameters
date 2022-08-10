@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+title: [My project's git hub page]
+description: [This is an example to impress people]
+logo: viva_la_resolution.jpg
