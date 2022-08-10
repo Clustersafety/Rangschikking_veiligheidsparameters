@@ -33,4 +33,4 @@ De tool is uniek in die zin dat er gefocust wordt op **gezamenlijkheid**. De pri
 
 [Klik hier om het volledige onderzoeksrapport te lezen] (Doel.jpg)
 
-[Klik hier om naar de Excel tool te gaan] (
+[Klik hier om naar de Excel tool te gaan] (https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/bff3050e2d703298a8edfbc41445b0a195d92de8/TEST.xlsx)
