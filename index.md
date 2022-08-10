@@ -36,3 +36,17 @@ De tool is uniek in die zin dat er gefocust wordt op **gezamenlijkheid**. De pri
 [Klik hier om het volledige onderzoeksrapport te lezen](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/Onderzoeksrapport%20-%20Een%20clusterspecifieke%20rangschikking%20van%20veiligheidsparameters%20-%20Augustus%202022.pdf)
 
 [Klik hier om naar de Excel tool te gaan](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/bff3050e2d703298a8edfbc41445b0a195d92de8/TEST.xlsx)
+
+# Meer informatie?
+
+Contacteer Karolien van Nunen via K.L.L.vannunen@tudelft.nl
+
+# Opdrachtgever en uitvoerder
+
+Deze studie werd uitgevoerd in opdracht van het Ministerie van Infrastructuur en Waterstaat en maakt onderdeel uit van het bredere clusterbeleid binnen de (petro)chemische industrie.
+
+Deze studie werd uitgevoerd door de Safety & Security Science Group, TU Delft.
+  Drs. Karolien van Nunen
+  Prof. dr. Genserik Reniers
+
+De ontwikkeling van de tool kwam tot stand met behulp van ondersteuning door het Digital Competence Centre, TU Delft.
