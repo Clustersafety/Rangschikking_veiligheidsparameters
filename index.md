@@ -50,3 +50,4 @@ Deze studie werd uitgevoerd door de Safety & Security Science Group, TU Delft.
   Prof. dr. Genserik Reniers
 
 De ontwikkeling van de tool kwam tot stand met behulp van ondersteuning door het Digital Competence Centre, TU Delft.
+![DCC](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/DCC.png)
