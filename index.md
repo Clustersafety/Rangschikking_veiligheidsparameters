@@ -31,6 +31,6 @@ De tool is uniek in die zin dat er gefocust wordt op **gezamenlijkheid**. De pri
 
 # Aan de slag!
 
-[Klik hier om het volledige onderzoeksrapport te lezen] (
+[Klik hier om het volledige onderzoeksrapport te lezen] (Doel.jpg)
 
-De Excel tool:
+[Klik hier om naar de Excel tool te gaan] (
