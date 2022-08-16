@@ -45,13 +45,15 @@ Contacteer Karolien van Nunen via K.L.L.vannunen@tudelft.nl
 
 Deze studie werd uitgevoerd in opdracht van het Ministerie van Infrastructuur en Waterstaat en maakt onderdeel uit van het bredere clusterbeleid binnen de (petro)chemische industrie.
 
-   ![I&W](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/I&W_logo.jpg)
+![I&W](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/I&W_logo.jpg)
 
 Deze studie werd uitgevoerd door de Safety & Security Science Group, TU Delft.
   Drs. Karolien van Nunen
   Prof. dr. Genserik Reniers
 
+<p align="center">
 ![TUDelft](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/TUD_logo.png)
+</p>
 
 De ontwikkeling van de tool kwam tot stand met behulp van ondersteuning door het Digital Competence Centre, TU Delft.
 ![DCC](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/DCC_logo.png)
