@@ -43,7 +43,7 @@ Contacteer Karolien van Nunen via K.L.L.vannunen@tudelft.nl
 
 # Opdrachtgever en uitvoerder
 
-Deze studie werd uitgevoerd in opdracht van het Ministerie van Infrastructuur en Waterstaat en maakt onderdeel uit van het bredere clusterbeleid binnen de (petro)chemische industrie.
+Deze studie werd uitgevoerd in opdracht van het Ministerie van Infrastructuur en Waterstaat en maakt onderdeel uit van [het bredere clusterbeleid binnen de (petro)chemische industrie].
 
 ![I&W](https://github.com/Clustersafety/Rangschikking_veiligheidsparameters/blob/main/I&W_logo.jpg)
 
